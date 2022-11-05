@@ -6,6 +6,8 @@ bot = telebot.Telebot(API_KEY)
 
 @bot.message_handler(command=['start'])
 deg start(message):
-  bot.reply_to(message, "")
+  bot.reply_to(message, "Hello {}👋,
+I am OTT Downloader Bot. I can help you to download content from OTT Platforms.
+Made With ❤️ by [_*Shivam*_](httpst.me/Legend_Shivam_7")
   
   bot.polling()

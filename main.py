@@ -16,6 +16,25 @@ app = Client("my_bot",api_id=api_id, api_hash=api_hash,bot_token=bot_token)
 def send_help(client: pyrogram.client.Client, message: pyrogram.types.messages_and_media.message.Message):
     app.send_message(message.chat.id, START_TXT, reply_to_message_id=message.id, disable_web_page_preview=True)
 
+@app.on_message(filters.command(["rip"]))
+def send_help(client: pyrogram.client.Client, message: pyrogram.types.messages_and_media.message.Message):
+    app.send_message(message.chat.id, RIP_TXT, reply_to_message_id=message.id, disable_web_page_preview=True)
+
+@app.on_message(filters.command(["plans"]))
+def send_help(client: pyrogram.client.Client, message: pyrogram.types.messages_and_media.message.Message):
+    app.send_message(message.chat.id, PLANS_TXT, reply_to_message_id=message.id, disable_web_page_preview=True)
+
+@app.on_message(filters.command(["about"]))
+def send_help(client: pyrogram.client.Client, message: pyrogram.types.messages_and_media.message.Message):
+    app.send_message(message.chat.id, ABOUT_TXT, reply_to_message_id=message.id, disable_web_page_preview=True)
+
+@app.on_message(filters.command(["availableott"]))
+def send_help(client: pyrogram.client.Client, message: pyrogram.types.messages_and_media.message.Message):
+    app.send_message(message.chat.id, AVAILABLEOTT_TXT, reply_to_message_id=message.id, disable_web_page_preview=True)
+
+
+
+
 
 print("Bot Starting")
 app.run()

@@ -44,11 +44,11 @@ PLANS_TXT = """
 
 
 ABOUT_TXT = """
-Mʏ Nᴀᴍᴇ: Oᴛᴛ Dᴏᴡɴʟᴏᴀᴅᴇʀ(https://t.me/Ott_Downloader7_bot)
+Mʏ Nᴀᴍᴇ: [Oᴛᴛ Dᴏᴡɴʟᴏᴀᴅᴇʀ](https://t.me/Ott_Downloader7_bot)
 
 Vᴇʀsɪᴏɴ: 0.1.7-Oᴛᴛ_Dᴏᴡɴʟᴏᴀᴅᴇʀ_Bᴏᴛ_Tɢ
 
-Lᴀɴɢᴜᴀɢᴇ: Pʏᴛʜᴏɴ 3.10.6 (https://www.python.org/)
+Lᴀɴɢᴜᴀɢᴇ: [Pʏᴛʜᴏɴ 3.10.6](https://www.python.org/)
 
 👨‍🚒Dᴇᴠᴇʟᴏᴘᴇʀ: [Shivam](https://t.me/Legend_Shivam_7)
 

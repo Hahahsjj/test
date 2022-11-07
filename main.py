@@ -28,7 +28,7 @@ def send_help(client: pyrogram.client.Client, message: pyrogram.types.messages_a
 def send_help(client: pyrogram.client.Client, message: pyrogram.types.messages_and_media.message.Message):
     app.send_message(message.chat.id, ABOUT_TXT, reply_to_message_id=message.id, disable_web_page_preview=True)
 
-@app.on_message(filters.command(["availableott"]))
+@app.on_message(filters.command(["availableotts"]))
 def send_help(client: pyrogram.client.Client, message: pyrogram.types.messages_and_media.message.Message):
     app.send_message(message.chat.id, AVAILABLEOTT_TXT, reply_to_message_id=message.id, disable_web_page_preview=True)
 

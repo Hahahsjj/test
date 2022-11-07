@@ -1,4 +1,4 @@
-START_TXT = """<b>Hello {mention}👋,
+START_TXT = """<b>Hello {user.first_name}👋,
 
 I am OTT Downloader Bot. I can help you to download content from OTT Platforms.
 

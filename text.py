@@ -1,8 +1,8 @@
-START_TXT = """/<b>Hello {}👋,
+START_TXT = """<b>Hello {mention}👋,
 
 I am OTT Downloader Bot. I can help you to download content from OTT Platforms.
 
-Made With ❤️ by [*Shivam*](https/t.me/Legend_Shivam_7)"""
+Made With ❤️ by [*Shivam*](https://t.me/Legend_Shivam_7)"""
 
 
 RIP_TXT = """ERROR: You Don't Have Any Subscription.
@@ -10,7 +10,7 @@ Check Plans **/plans**"""
 
 
 MYPLAN_TXT = """**You Don't Have Any Subscription.**
-Buy Subscription From [**Shivam**](https/t.me/Legend_Shivam_7)"""
+Buy Subscription From [**Shivam**](https://t.me/Legend_Shivam_7)"""
 
 
 PLANS_TXT = """
@@ -44,7 +44,7 @@ PLANS_TXT = """
 
 
 ABOUT_TXT = """
-Mʏ Nᴀᴍᴇ: Oᴛᴛ Dᴏᴡɴʟᴏᴀᴅᴇʀ (https://t.me/https://t.me/Ott_Downloader7_bot)
+Mʏ Nᴀᴍᴇ: Oᴛᴛ Dᴏᴡɴʟᴏᴀᴅᴇʀ(https://t.me/Ott_Downloader7_bot)
 
 Vᴇʀsɪᴏɴ: 0.1.7-Oᴛᴛ_Dᴏᴡɴʟᴏᴀᴅᴇʀ_Bᴏᴛ_Tɢ
 
@@ -52,7 +52,7 @@ Lᴀɴɢᴜᴀɢᴇ: Pʏᴛʜᴏɴ 3.10.6 (https://www.python.org/)
 
 👨‍🚒Dᴇᴠᴇʟᴏᴘᴇʀ: [Shivam](https://t.me/Legend_Shivam_7)
 
-Sᴘᴏɴsᴏʀᴇᴅ Bʏ: [Telly Fun] (https://t.me/TellyFun2)
+Sᴘᴏɴsᴏʀᴇᴅ Bʏ: [Telly Fun](https://t.me/TellyFun2)
 """
 
 

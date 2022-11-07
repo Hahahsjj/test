@@ -3,7 +3,7 @@ from pyrogram import Client
 from pyrogram import filters
 from pyrogram.types import InlineKeyboardMarkup,InlineKeyboardButton
 import os
-from text import START_TXT RIP_TXT MYPLAN_TXT PLANS_TXT ABOUT_TXT AVAILABLEOTT_TXT
+from text import START_TXT,RIP_TXT,MYPLAN_TXT,PLANS_TXT,ABOUT_TXT,AVAILABLEOTT_TXT
 
 
 # bot

@@ -2,15 +2,15 @@ START_TXT = """/<b>Hello {}👋,
 
 I am OTT Downloader Bot. I can help you to download content from OTT Platforms.
 
-Made With ❤️ by [_*Shivam*_](httpst.me/Legend_Shivam_7)"""
+Made With ❤️ by [*Shivam*](https/t.me/Legend_Shivam_7)"""
 
 
-RIP_TXT = """RROR: You Don't Have Any Subscription.
+RIP_TXT = """ERROR: You Don't Have Any Subscription.
 Check Plans **/plans**"""
 
 
 MYPLAN_TXT = """**You Don't Have Any Subscription.**
-Buy Subscription From [**Shivam**](httpst.me/Legend_Shivam_7)"""
+Buy Subscription From [**Shivam**](https/t.me/Legend_Shivam_7)"""
 
 
 PLANS_TXT = """

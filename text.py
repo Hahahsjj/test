@@ -43,7 +43,7 @@ PLANS_TXT = """
 *Max 20 Members are Allowed in Group Plan"""
 
 
-ABOUT_TXT = ""'
+ABOUT_TXT = """
 Mʏ Nᴀᴍᴇ: Oᴛᴛ Dᴏᴡɴʟᴏᴀᴅᴇʀ (https://t.me/https://t.me/Ott_Downloader7_bot)
 
 Vᴇʀsɪᴏɴ: 0.1.7-Oᴛᴛ_Dᴏᴡɴʟᴏᴀᴅᴇʀ_Bᴏᴛ_Tɢ
@@ -53,9 +53,10 @@ Lᴀɴɢᴜᴀɢᴇ: Pʏᴛʜᴏɴ 3.10.6 (https://www.python.org/)
 👨‍🚒Dᴇᴠᴇʟᴏᴘᴇʀ: [Shivam](https://t.me/Legend_Shivam_7)
 
 Sᴘᴏɴsᴏʀᴇᴅ Bʏ: [Telly Fun] (https://t.me/TellyFun2)
+"""
 
 
-AVAILABLEOTT_TXT = ""'
+AVAILABLEOTT_TXT = """
 **👇Available OTTs👇
 
 🔹Aha
